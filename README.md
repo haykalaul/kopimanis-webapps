@@ -1,18 +1,5 @@
-# Welcome to your Lovable project
+# Website Kopi Manis
 
-## Project info
-
-**URL**: https://lovable.dev/projects/705cb725-b3e5-4233-a8c4-299544c04529
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/705cb725-b3e5-4233-a8c4-299544c04529) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 

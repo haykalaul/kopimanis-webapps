@@ -55,11 +55,11 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
-                <span>info@kopikeliling.com</span>
+                <span>info@kopimanis.com</span>
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="h-4 w-4" />
-                <span>Jakarta, Indonesia</span>
+                <span>Surabaya, Indonesia</span>
               </li>
             </ul>
           </div>
